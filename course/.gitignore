@@ -216,8 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Local IDE settings and generated vector indexes
-.idea/
-**/faiss_index/
-**/faiss_financial_fraud_pdf_index/
